@@ -11,22 +11,6 @@ A simple and intuitive desktop tool to **secure your files using AES-256 encrypt
   ```bash
   pip install cryptography
 
-
-
-How to Run the Program
-Open your terminal or VSCode terminal.
-
-Navigate to the project folder:
-
-```bash
-cd path/to/your/project
-
-  Run the script:
-
-bash
-Copy
-Edit
-python secure_storage.py
 🧠 How the System Works
 🔐 Encryption Process:
 User selects a file via the GUI.
@@ -81,3 +65,13 @@ cryptography
 tkinter
 
 hashlib
+
+
+How to Run the Program
+Open your terminal or VSCode terminal.
+
+Navigate to the project folder:
+
+```bash
+cd path/to/your/project
+python secure_storage.py
